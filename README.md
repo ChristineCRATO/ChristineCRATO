@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development on WordPress with the languages html, css, php, javascript...
 - 💞️ I’m looking to collaborate on "I don't know exactly yet at the moment..."
 - 📫 How to reach me ? you can reach me on my email git.pixel54@gmail.com
-- 😄 Pronouns: ...
+- 😄 Surnom : GitPixel
 - ⚡ Fun fact: I'm a surprise kinder !
 
 <!---
