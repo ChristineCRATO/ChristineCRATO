@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/ChristineCRATO"><img width="80%" alt="Hello, Me It's Christine !" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/ChristineCRATO"><img width="80%" alt="Hello, Me It's Christine !"/></a></p>
 
 <br />
 
