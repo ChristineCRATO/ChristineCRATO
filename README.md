@@ -1,8 +1,10 @@
-<p align="center"><a href="https://github.com/ChristineCRATO"><img width="80%" alt="Hello, Me It's Christine !"/></a></p>
-
+<h1 align="center">Hello ! Me It's Christine ! 😄<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center">
+  <a href="https://github.com/ChristineCRATO/"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passionate+Developer;Limitless+Creator;Never+Short+Of+Ideas;Waiting+Yours+Projects&color=FF69B4" alt="Typing SVG" /></a>  
+</p>
 <br />
 
-I'm a Self-Taught passionate Front-End Developer from France 🇫🇷
+I'm a "FreeLance" passionate Front-End Developer from France 🇫🇷
 
 <br />
 **About me**
