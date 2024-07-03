@@ -14,16 +14,16 @@ I'm a Self-Taught passionate Front-End Developer from France 🇫🇷
 - ❤️ I love Javascript, and PHP is so vast
 
 - 💬 Ask me about anything [here](gitpixel54@gmail.com)
+
+  <br />
  
-<br />
+
 - My Languages & Tools :
-<br />
 
-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,php,js,mysql,wordpress,vscode,jquery,figma,codepen,github,gmail,linkedin,notion&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,sass,php,js,mysql,wordpress,vscode,jquery,figma,codepen,github,gmail,linkedin,notion&perline=7)](https://skillicons.dev)
 
-<br />
+
 - My Stats :
-<br />
 
 <a href="https://github.com/ChristineCRATO">
   <img height="150" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineCRATO&layout=compact&theme=rose" />
